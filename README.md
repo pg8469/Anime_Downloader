@@ -23,3 +23,6 @@ Downloads anime from gogoanime
   -n no of episodes, --noep no of episodes
                         Specify number of episodes, default is 1 episode
 
+# Usage examples
+`python3 anime_downloader.py -s https://gogoanime.so/hunter-x-hunter-2011-episode-101 -n 5 -d ` <br>downloads 5 episode ( from 101 to 105 ) of hunter x hunter in 1080p<br><br>
+`python3 anime_downloader.py -s https://gogoanime.so/hunter-x-hunter-2011-episode-101 -q 2 -d ` <br>downloads 1 episode ( 101 ) of hunter x hunter in 480p
